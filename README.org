@@ -1,0 +1,10 @@
+* ryeboy
+
+A Common Lisp Riemann client - https://github.com/aphyr/riemann
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AeroNotix/ryeboy.git   |
+| commit  | be769e6  |
+| systems | ryeboy |
+|---------+-------------------------------------------|
+
